@@ -1,0 +1,2 @@
+defmodule EXBot do
+end
